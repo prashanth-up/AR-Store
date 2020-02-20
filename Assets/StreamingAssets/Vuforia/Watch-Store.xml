@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Maze_white" size="10.000000 10.184162" />
+    <ImageTarget name="watch_target" size="5.000000 4.420290" />
+  </Tracking>
+</QCARConfig>
